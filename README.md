@@ -1,1 +1,1 @@
-# Chini_et_al_EI_sparsification
+# Chini_et_al_EI_decorrelation
